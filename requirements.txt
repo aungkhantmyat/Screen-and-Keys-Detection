@@ -1,0 +1,5 @@
+opencv-python
+keyboard
+pyautogui
+PyGetWindow
+numpy

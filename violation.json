@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Move away from the Test",
+        "Time": "2023-11-20 21:30:46",
+        "Duration": "17 seconds",
+        "Mark": 30,
+        "Link": "42180SDViolation.avi"
+    },
+    {
+        "Name": "Prohibited Shorcuts (Ctrl+C,Ctrl+V,Ctrl+A) are detected.",
+        "Time": 0,
+        "Duration": "3 Counts",
+        "Mark": 6,
+        "Link": ""
+    }
+]
