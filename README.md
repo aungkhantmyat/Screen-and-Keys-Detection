@@ -4,5 +4,5 @@
 
 2. **Detection of Navigation Beyond the Test Interface**: The system is designed to monitor and identify any attempts by the student (user) to _switch or interact with other windows or applications_ while working within the test window interface (currently active IDE window) during the examination.
 
-This implementation utilizes the `"Keyboard"` library for_ Unauthorized Key Detection_ and the `"pygetwindow"` library for d_etecting attempts to navigate away from the test interface_.
+This implementation utilizes the `"Keyboard"` library for _Unauthorized Key Detection_ and the `"pygetwindow"` library for detecting _attempts to navigate away from the test interface_.
 
